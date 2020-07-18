@@ -1,0 +1,32 @@
+Q1. What is your understanding of Blockchain?
+A. 	Blockchain is a secure network which keeps a record of all transactions 
+	having taken place, which is decentralized and distributed.
+	It makes a network more community-friendly(user-friendly) than depending 
+	on a third-party to facilitate a transaction.
+
+Q2. What is the core problem Blockchain is trying to solve?
+A. 	Blockchain is trying to solve the problem of middle-men existing in
+	transactions. These middle-men make it untrustworthy for users to share 
+	their information and data, and there is a lingering threat of 
+	data-stealing and hacking.
+  
+Q3. What are the few features which Blockchain will give you?
+A.	Blockchain will give the following few features: 
+	1. No hacking
+	2. Improved security
+	3. Data-transparency
+	4. Decentralization
+
+Q4. What all things does a Block contain?
+A.	A Block contains:
+	1. A Block Number
+	2. Transaction records
+	3. Previous Block Signature 
+	4. Mining Key
+
+Q5. How is the verifiability of Blockchain attained?
+A.	 Blockchain allows the users to be audience to the transactions in a 
+	 particular network, while keeping the information of those making the 
+	 transactions hidden, to others members of the network. Hence in case of a 
+	 discrepancy in any information or transaction, other users can check and 
+	 verify the existence of the error and take necessary action.    
